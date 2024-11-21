@@ -1,3 +1,6 @@
 [submodule "QL_Muon_tra_sach"]
 	path = QL_Muon_tra_sach
 	url = https://github.com/hieu10-06/Frontend_QLmuonsach.git
+[submodule "BackEnd_QL_Muon_tra_sach"]
+	path = BackEnd_QL_Muon_tra_sach
+	url = https://github.com/hieu10-06/QL_Muon_tra_sach.git
